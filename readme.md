@@ -106,7 +106,7 @@ pyinstaller --onefile --noconsole --icon=app.ico time_lock_assistant.py
 
 ## 📄 许可证
 
-[选择合适的许可证，比如 MIT License]
+没有，随便用
 
 ## 🆘 常见问题
 
